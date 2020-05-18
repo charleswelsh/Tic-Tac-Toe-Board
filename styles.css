@@ -5,10 +5,17 @@ h1, h2 {
     text-align: center;
     font-family: sans-serif;
 }
+h2 {
+    height: 50px;
+}
 .row > div {
     height: 100px;
     width: 100px;
     float: left;
+    text-align: center;
+    font-size: 75px;
+    font-family: monospace;
+    margin: auto;
 }
 .row {
     clear: right;
